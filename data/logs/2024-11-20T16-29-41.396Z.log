@@ -1,0 +1,12 @@
+[5:29:41 PM] [LOG] [Network] WebSocket server is listening on port 443
+[5:29:41 PM] [LOG] [Content] Loading base content-pack
+[5:29:41 PM] [LOG] [Content] Loaded 10 entities
+[5:29:41 PM] [ERROR] [CommandSystem] Invalid command from path: C:\Users\HP\Desktop\nostarve-server-master\nostarve-server-master\compiled\command\commands\building\clean-building.js
+[5:29:41 PM] [WARN] [TICKER] TPS: 4.405286343612334 | DELTA: 0.227
+[5:29:46 PM] [LOG] [SaveSystem] Loaded 0 players & 328 buildings & 0 crates
+[5:29:49 PM] [LOG] [Network] Connected with 0.0.0.1 ip
+[5:29:49 PM] [LOG] [Discord] Ready!
+[5:29:55 PM] [WARN] [TICKER] TPS: 0.7072135785007072 | DELTA: 1.414
+[5:30:01 PM] [LOG] [Command] restarver#1 issued command: cia
+[5:30:13 PM] [LOG] [Command] restarver#1 issued command: gs 1e9
+[5:33:17 PM] [WARN] [TICKER] TPS: 7.575757575757575 | DELTA: 0.132

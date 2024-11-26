@@ -1,0 +1,7 @@
+[3:36:43 PM] [LOG] [Network] WebSocket server is listening on port 443
+[3:36:43 PM] [LOG] [Content] Loading base content-pack
+[3:36:43 PM] [LOG] [Content] Loaded 10 entities
+[3:36:43 PM] [ERROR] [CommandSystem] Invalid command from path: C:\Users\HP\Desktop\nostarve-server-master\nostarve-server-master\compiled\command\commands\building\clean-building.js
+[3:36:44 PM] [WARN] [TICKER] TPS: 4.219409282700422 | DELTA: 0.237
+[3:36:45 PM] [LOG] [Discord] Ready!
+[3:36:56 PM] [WARN] [TICKER] TPS: 1.1111111111111112 | DELTA: 0.9
